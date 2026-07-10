@@ -1,0 +1,8 @@
+cat concatenate (print out file specified)
+pwd print working directrory
+mv   move files or direcotory to a new loacation
+
+cp  copy files or directory to a new location -r is used when copying recursively
+rm  remove a directroy
+touch create an empty file
+

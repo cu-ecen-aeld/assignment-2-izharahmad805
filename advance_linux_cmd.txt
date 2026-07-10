@@ -1,0 +1,31 @@
+shell interpreter we can put list of comands in text file and pass it as comands
+bash shell bourne again shell 
+find  a uilitly that find the file or directory 
+find . -name a_directoy
+searching for content with grep
+
+grep -r "is_awesone" *    star is telling any match any include
+the name or argument to grep is callled wildcard
+
+PIPES
+
+thr pipr characted |  sends output of one command to input of another comand
+like
+
+cat textfile  |  grep 
+
+redirection
+sends the output of a command to a new file using >
+cat sometihing.txt > send.txt
+>> using two add at end uinsg one > rewurte the content at begining
+file permissions 
+
+there are three level of permissions user group world
+ls -l  show permission info
+chmod u+x namr.sh
+using numbers instead of u+x 
+4 read 2 wrie 1 execute
+766
+
+
+
